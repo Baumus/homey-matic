@@ -61,8 +61,5 @@
   },
   "0.27.0": {
     "en": "refactor: dropped unused code RPC/Connection Manager"
-  },
-  "0.27.1": {
-    "en": "fix: Improve stability and performance"
   }
 }
