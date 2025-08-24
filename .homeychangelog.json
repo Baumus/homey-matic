@@ -58,5 +58,8 @@
   },
   "0.26.1": {
     "en": "refactor: optimize stability, performance and resource cleanup"
+  },
+  "0.27.0": {
+    "en": "refactor: dropped unused code RPC/Connection Manager"
   }
 }
