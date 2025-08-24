@@ -7,7 +7,6 @@
     "@twendt/binrpc": "3.3.2",
     "axios": "^1.7.2",
     "freeport": "1.0.5",
-    "homematic-xmlrpc": "^1.0.2",
     "mqtt": "^3.0.0"
   },
   "devDependencies": {
