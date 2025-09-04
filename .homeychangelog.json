@@ -67,5 +67,8 @@
   },
   "0.28.1": {
     "en": "removed: unused dependencies"
+  },
+  "0.28.2": {
+    "en": "fix: optimized value conversion"
   }
 }
