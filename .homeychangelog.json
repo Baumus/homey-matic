@@ -70,5 +70,8 @@
   },
   "0.28.2": {
     "en": "fix: optimized value conversion"
+  },
+  "0.28.3": {
+    "en": "fix: code optimizations"
   }
 }
