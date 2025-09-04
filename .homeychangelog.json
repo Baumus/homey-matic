@@ -64,5 +64,8 @@
   },
   "0.28.0": {
     "en": "fix: Improved stability and performance"
+  },
+  "0.28.1": {
+    "en": "removed: unused dependencies"
   }
 }
