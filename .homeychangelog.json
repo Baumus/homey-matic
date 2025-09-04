@@ -73,5 +73,8 @@
   },
   "0.28.3": {
     "en": "fix: code optimizations"
+  },
+  "0.28.4": {
+    "en": "fix: code optimization"
   }
 }
